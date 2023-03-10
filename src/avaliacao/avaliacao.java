@@ -1,6 +1,6 @@
-package br.lista.projeto.avaliacao;
+package avaliacao;
 
-import br.lista.projeto.avalicaoImpl.avaliacaoImpl;
+import avalicaoImpl.avaliacaoImpl;
 
 public class avaliacao {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package br.lista.projeto.exercicios;
+package exercicios;
 
-import br.lista.projeto.implementacao.ListaImpl;
+import exercicoImplementacao.ListaImpl;
 
 public class Lista {
     public static void main(String[] args) {

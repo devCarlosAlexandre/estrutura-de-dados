@@ -1,4 +1,4 @@
-package br.lista.projeto.avalicaoImpl;
+package avalicaoImpl;
 
 public class avaliacaoImpl {
     private Integer [] listaMaioQueDez = {20,2,13,21,5,73,0,100,9};

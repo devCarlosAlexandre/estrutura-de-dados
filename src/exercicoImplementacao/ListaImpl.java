@@ -1,4 +1,4 @@
-package br.lista.projeto.implementacao;
+package exercicoImplementacao;
 
 public class ListaImpl {
     private Integer [] elementos = new Integer[10];
